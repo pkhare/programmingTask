@@ -8,7 +8,9 @@ zalora_products.txt contains the data derived from original product.csv. In orde
 Further, to assess the trend the view, impression, and net sale has been examined as how much the rate has been in last 7 days in comparison to last 30 days and a difference of it reflects the growing popularity of any product
 
 trend view = (view in last 7 days / 7) - (view in last 30 days / 30)
+
 trend impression = (impression in last 7 days / 7) - (impression in last 30 days / 30)
+
 trend net sale = (net sale in last 7 days / 7) - (net sale in last 30 days / 30)
 
 larger the value of each one, more has been the exposure of the individual product to online customers.
