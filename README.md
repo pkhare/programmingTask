@@ -19,4 +19,20 @@ hence, trend net sale is the resulting value (y) of input parameters original pr
 
 There are overall 80 jeans products, 50 around of which are used to train the model. Once, trained 10 different product ids are chosen (from same sub category) to check their resulting 'trend net sale' and analysed in an ascending order. A comparison is later made between derived trend net sale against actual trend net sale order of these 10 products. Aim is to have a near around similar order in terms of growing trend of products and not their net sale(even if the derived trend net sale is not very close to originals).
 
-So, as to enhance the inferences that can be derived from the data in order to create better recommendation mechanisms it is important to have user-item product purchasing (view) data. That would enable to gather insights over preferred products in a combination  and even more. 
+So, as to enhance the inferences that can be derived from the data in order to create better recommendation mechanisms it is important to have user-item product purchasing (view) data. That would enable to gather insights over preferred products in a combination  and even more.
+
+IMP: the script's name to each question in programming-tasks/tasks.txt are mentioned right after each question. for e.g 
+
+1. Python / Haskell / Perl / Your prefered scripting language.
+a) array = [['a','b','c'],['d','e','f']]
+How do I get this output?
+a
+b
+c
+d
+e
+f
+
+ANS: first.py
+
+first.py is under programming-tasks
