@@ -9,9 +9,13 @@ d
 e
 f
 
+ANS: first.py
+
 b) Have a look at "programming-tasks/top10_sample.csv"
 Each line in this file represents a list of Brand in our store.
 Write a script to print out a list of brand names and their occurrence counts (sorted).
+
+ANS: firstB.py
 
 =============================================================================
 2. SQL
@@ -31,13 +35,19 @@ a) Write a bash script for the below set of tasks:
 - run ZMR.py which is located in "home/Marketing Report/Scripts/"
 - run UpdateWebtrekk.sql which is located in "home/Marketing Report/Scripts/" on a PostgreSQL DB (host=10.11.12.13 port=5439 database=zalora username=helloDB password=world)
 ]
+
+ANS: third.sh
+
 How would you schedule the above as a cron job every day at 2.35am?
 
 b) Have a look at the folder "/programming-tasks/bash/"
-- Write a bash script to rename all files below from "zalora-*" to "Zalora-*"
+- Write a bash script to rename all files below from "zalora-*" to "Zalora-*" ANS: threeB.sh
+
 - All Zalora-* files contain a single string: "this is a test." (with a new line at the end):
     Write a shell script to change the content of those files to all uppercase.
     Write a shell script to remove all dot character (.) within those files.
+    
+    ANS: threeC.sh
 
 $ ls
 zalora-1.txt            zalora-2.txt            zalora-3.txt            zalora-4.txt            zalora-5-extra.txt      zalora-6.txt            other-zalora-file-1.txt other-zalora-file-2.txt
